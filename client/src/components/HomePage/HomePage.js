@@ -48,7 +48,7 @@ const HomePage = () => {
             fontWeight: 600
           }}
         >
-          A grateful life????
+          A grateful life
         </Typography>
         <Typography
           variant="h1"
