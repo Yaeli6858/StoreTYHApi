@@ -3,7 +3,7 @@ const Products = require("../models/Products");
 //צפיה
 const getAllProducts = async (req, res) => {
     const page = req.query.page || 1
-    const limit = 6
+    const limit = 8
     const category = req.query.category || '';
 
     const filter = category ? { category } : {};

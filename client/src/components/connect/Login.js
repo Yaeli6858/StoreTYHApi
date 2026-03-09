@@ -64,6 +64,7 @@ const Login = () => {
       onSubmit={connectUser}
       noValidate
       sx={{
+        minHeight: "48vh",
         maxWidth: 360,  // 80% מהרוחב שהיה ב Register (450 -> 360)
         mx: "auto",
         mt: 6,

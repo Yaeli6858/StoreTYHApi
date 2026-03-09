@@ -144,7 +144,7 @@ const ProductsPage = () => {
         <Pagination
           onChange={(e, value) => setPage(value)}
           page={page}
-          count={Math.ceil(amount / 6)}
+          count={Math.ceil(amount / 8)}
           shape="rounded"
           size="large"
           siblingCount={1}

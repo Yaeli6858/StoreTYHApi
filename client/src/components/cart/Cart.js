@@ -37,7 +37,7 @@ const Cart = () => {
   }, [token])
 
   return (
-    <>
+    <Box sx={{ minHeight: "45vh" }}>
       {jump && <Alert severity='info'> {alert} </Alert>}
 
       {/* כותרת */}
@@ -81,7 +81,7 @@ const Cart = () => {
           <OneProductInCart key={item.prodId} item={item} onRemove={onRemove} />
         ))}
       </Box>
-    </>
+      </Box>
   )
 }
 

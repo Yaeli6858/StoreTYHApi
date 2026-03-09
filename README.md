@@ -2,6 +2,12 @@
 
 A full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React, Node.js). This project allows users to browse products, manage a shopping cart, and authenticate securely, while providing admin users with tools to manage the product catalog.
 
+![Home Page](screenshots/all.gif)
+
+
+
+
+
 ## Features
 
 ### User Features
@@ -135,3 +141,24 @@ tyh-project/
 │   └── server.js
 └── README.md
 ```
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Products Page
+![Products Page](screenshots/products.png)
+
+### add product
+![Home Page](screenshots/add_product.gif)
+
+### Product Details
+![Product Details](screenshots/product-details.png)
+
+### Shopping Cart
+![Shopping Cart](screenshots/cart.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
