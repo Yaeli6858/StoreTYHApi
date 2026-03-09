@@ -4,9 +4,15 @@ A full-stack e-commerce web application built with the MERN stack (MongoDB, Expr
 
 ![Home Page](screenshots/all.gif)
 
+## Table of Contents
 
-
-
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Documentation](#api-documentation)
+- [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
 
 ## Features
 
